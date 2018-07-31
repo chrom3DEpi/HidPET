@@ -46,7 +46,7 @@ python NetworkFusion.py -i ../NetworkFusion_example/tf_3d.list -I ../NetworkFusi
 python FindGenes.py -i ../FindGenes_example/promoter_genename -c ../FindGenes_example/maximal_clique -fv 0.0001 
 
 
-Contacct us
+Contact us
 If you have any questions or suggestions, please send an email to Ruimin Wang(rmwang@webmail.hzau.edu.cn).
 
 ---END---
